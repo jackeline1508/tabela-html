@@ -1,0 +1,27 @@
+table, th, td{
+    border: 1px solid black;
+    border-collapse:collapse ;
+    padding: 5px 2px;
+}
+table{
+    width: 100%;
+}
+.conteudo{
+    text-align: left;
+}
+
+.acoes{
+    text-align: center;
+}
+th{
+    background-color: #BB86FC;
+    color: black;
+}
+td{
+    color: floralwhite;
+    background-color:  #424250
+    
+}
+h1{
+    color: blue;
+}
